@@ -7,7 +7,7 @@ def add(a,b):
     return a+b
 
 def addFixedValue(a):
-    y = 11
+    y = 12
     return y +a
     
 print add(1,2)
