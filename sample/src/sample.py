@@ -5,7 +5,9 @@ Created on Dec 14, 2011
 '''
 def add(a,b):
     return a+b
-
+'''
+teting meer in de zelfde file
+'''
 def addFixedValue(a):
     y = 15 
     '''
