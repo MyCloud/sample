@@ -7,7 +7,10 @@ def add(a,b):
     return a+b
 
 def addFixedValue(a):
-    y = 12
+    y = 14 
+'''
+teting
+'''
     return y +a
     
 print add(1,2)
